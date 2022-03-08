@@ -1,7 +1,7 @@
-public class daniella {
+public class daniela {
 	public static void main(String[] args) {
 		for (int i=1;i<=10; i++) {
-			System.out.println("daniella ..."+i);
+			System.out.println("daniela ..."+i);
 		}
 	}
 }
